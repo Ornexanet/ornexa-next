@@ -38,7 +38,7 @@ const HeroCarousal = () => {
             </div>
 
             <h1 className="font-semibold text-dark text-xl sm:text-3xl mb-3">
-              <a href="/shope">Premium Wireless Headphone</a>
+              <a href="/shop-with-sidebar">Premium Wireless Headphone</a>
             </h1>
 
             <p>
@@ -79,7 +79,7 @@ const HeroCarousal = () => {
             </div>
 
             <h1 className="font-semibold text-dark text-xl sm:text-3xl mb-3">
-              <a href="/shope">Premium Wireless Headphones</a>
+              <a href="/shop-with-sidebar">Premium Wireless Headphones</a>
             </h1>
 
             <p>
