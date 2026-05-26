@@ -69,8 +69,11 @@ const Header = () => {
                 width={219}
                 height={36}
               />
-            </Link>
+              <span className="ml-2 font-bold text-xl">
+  Ornexa Lab
+</span>
 
+            </Link>
             <div className="max-w-[475px] w-full">
               <form>
                 <div className="flex items-center">
