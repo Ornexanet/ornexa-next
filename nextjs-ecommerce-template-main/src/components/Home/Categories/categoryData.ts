@@ -1,6 +1,7 @@
 const data = [
   {
     title: "Televisions",
+    href: "/category/televisions",
     id: 1,
     img: "/images/categories/categories-01.png",
   },
