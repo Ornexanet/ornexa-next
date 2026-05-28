@@ -64,15 +64,12 @@ const Header = () => {
           <div className="xl:w-auto flex-col sm:flex-row w-full flex sm:justify-between sm:items-center gap-5 sm:gap-10">
             <Link className="flex-shrink-0" href="/">
               <Image
-                src="/images/logo/logo.svg"
-                alt="Logo"
-                width={219}
-                height={36}
+                src="/images/logo/ai-commerce-logo.webp"
+                alt="AI Commerce"
+                width={160}
+                height={50}
+               className="h-10 w-auto" 
               />
-              <span className="ml-2 font-bold text-xl">
-  Ornexa Lab
-</span>
-
             </Link>
             <div className="max-w-[475px] w-full">
               <form>
