@@ -356,7 +356,7 @@ const Header = () => {
                         fill=""
                       />
                     </svg>
-                    Recently Viewed
+                    Senaste visade
                   </a>
                 </li>
 
@@ -378,7 +378,7 @@ const Header = () => {
                         fill=""
                       />
                     </svg>
-                    Wishlist
+                    Önskelista
                   </Link>
                 </li>
               </ul>
