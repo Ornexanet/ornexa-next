@@ -1,6 +1,6 @@
 export type Category = {
   title: string;
   id: number;
-  href: string;
+  href?: string;
   img: string;
 };
