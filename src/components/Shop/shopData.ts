@@ -6,6 +6,7 @@ const shopData: Product[] = [
     price: 59.0,
     discountedPrice: 29.0,
     id: 1,
+    category: "games-videos",
     imgs: {
       thumbnails: [
         "/images/products/product-1-sm-1.png",
