@@ -1,7 +1,7 @@
 const data = [
   {
     title: "Televisions",
-    href: "/category/televisions",
+    href: "/shop-with-sidebar",
     id: 1,
     img: "/images/categories/categories-01.png",
   },
