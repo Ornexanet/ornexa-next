@@ -3,25 +3,25 @@ import { Menu } from "@/types/Menu";
 export const menuData: Menu[] = [
   {
     id: 1,
-    title: "Popular",
+    title: "Populärt",
     newTab: false,
     path: "/",
   },
   {
     id: 2,
-    title: "Shop",
+    title: "Butik",
     newTab: false,
     path: "/shop-with-sidebar",
   },
   {
     id: 3,
-    title: "Contact",
+    title: "Kontakt",
     newTab: false,
     path: "/contact",
   },
   {
     id: 6,
-    title: "pages",
+    title: "Sidor",
     newTab: false,
     path: "/",
     submenu: [
@@ -51,43 +51,43 @@ export const menuData: Menu[] = [
       },
       {
         id: 66,
-        title: "Wishlist",
+        title: "Önskelista",
         newTab: false,
         path: "/wishlist",
       },
       {
         id: 67,
-        title: "Sign in",
+        title: "Logga in",
         newTab: false,
         path: "/signin",
       },
       {
         id: 68,
-        title: "Sign up",
+        title: "Registrera dig",
         newTab: false,
         path: "/signup",
       },
       {
         id: 69,
-        title: "My Account",
+        title: "Mitt konto",
         newTab: false,
         path: "/my-account",
       },
       {
         id: 70,
-        title: "Contact",
+        title: "Kontakt",
         newTab: false,
         path: "/contact",
       },
       {
         id: 62,
-        title: "Error",
+        title: "Fel",
         newTab: false,
         path: "/error",
       },
       {
         id: 63,
-        title: "Mail Success",
+        title: "Meddelande skickat",
         newTab: false,
         path: "/mail-success",
       },
@@ -95,7 +95,7 @@ export const menuData: Menu[] = [
   },
   {
     id: 7,
-    title: "blogs",
+    title: "Blogg",
     newTab: false,
     path: "/",
     submenu: [
