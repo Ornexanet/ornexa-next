@@ -37,7 +37,7 @@ const Header = () => {
   });
 
   const options = [
-    { label: "All Categories", value: "0" },
+    { label: "Alla kategorier", value: "0" },
     { label: "Desktop", value: "1" },
     { label: "Laptop", value: "2" },
     { label: "Monitor", value: "3" },
@@ -85,7 +85,7 @@ const Header = () => {
                       type="search"
                       name="search"
                       id="search"
-                      placeholder="I am shopping for..."
+                      placeholder="Sök efter produkter..."
                       autoComplete="off"
                       className="custom-search w-full rounded-r-[5px] bg-gray-1 !border-l-0 border border-gray-3 py-2.5 pl-4 pr-10 outline-none ease-in duration-200"
                     />
