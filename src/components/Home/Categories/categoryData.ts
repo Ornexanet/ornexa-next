@@ -1,36 +1,36 @@
 const data = [
   {
-    title: "Televisions",
+    title: "TV & Bildskärmar",
     href: "/shop-with-sidebar?category=televisions",
     id: 1,
     img: "/images/categories/categories-01.png",
   },
   {
-    title: "Laptop & PC",
+    title: "Laptop & Datorer",
     href: "/shop-with-sidebar?category=laptop-pc",
     id: 2,
     img: "/images/categories/categories-02.png",
   },
   {
-    title: "Mobile & Tablets",
+    title: "Mobiler & Surfplattor",
     href: "/shop-with-sidebar?category=mobile-tablets",
     id: 3,
     img: "/images/categories/categories-03.png",
   },
   {
-    title: "Games & Videos",
+    title: "Spel & Gaming",
     href: "/shop-with-sidebar?category=games-videos",
     id: 4,
     img: "/images/categories/categories-04.png",
   },
   {
-    title: "Home Appliances",
+    title: "Homelektonik",
     href: "/shop-with-sidebar?category=home-appliances",
     id: 5,
     img: "/images/categories/categories-05.png",
   },
   {
-    title: "Health & Sports",
+    title: "Hälsa & Sport",
     href: "/shop-with-sidebar?catecgory=health-sports",
     id: 6,
     img: "/images/categories/categories-06.png",
