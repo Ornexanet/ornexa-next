@@ -38,11 +38,12 @@ const HeroCarousal = () => {
             </div>
 
             <h1 className="font-semibold text-dark text-xl sm:text-3xl mb-3">
-              <a href="/shop-with-sidebar">Premium Wireless Headphone</a>
+              <a href="/shop-with-sidebar">Trådlösa PremiumhörlurarHeadphone</a>
             </h1>
 
             <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi at ipsum at risus euismod lobortis in
+            Upplev kristallklart ljud, lång batteritid och maximal komfort för arbete, musik och vardagsbruk.
+
             </p>
 
             <a
@@ -79,12 +80,13 @@ const HeroCarousal = () => {
             </div>
 
             <h1 className="font-semibold text-dark text-xl sm:text-3xl mb-3">
-              <a href="/shop-with-sidebar">Premium Wireless Headphones</a>
+              <a href="/shop-with-sidebar">Trådlösa Premiumhörlurar</a>
             </h1>
 
             <p>
-              Lorem ipsum dolor sit, consectetur elit nunc suscipit non ipsum
-              nec suscipit.
+            Upplev kristallklart ljud, lång batteritid och maximal komfort för arbete, musik och vardagsbruk.
+
+          
             </p>
 
             <a
