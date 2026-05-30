@@ -3,8 +3,8 @@ const shopData: Product[] = [
   {
     title: "Havit HV-G69 USB Gamepad",
     reviews: 15,
-    price: 59.0,
-    discountedPrice: 29.0,
+    price: 1499.0,
+    discountedPrice: 799.0,
     id: 1,
     imgs: {
       thumbnails: [
