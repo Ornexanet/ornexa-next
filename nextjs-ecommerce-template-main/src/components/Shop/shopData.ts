@@ -20,8 +20,8 @@ const shopData: Product[] = [
   {
     title: "iPhone 14 Plus , 6/128GB",
     reviews: 5,
-    price: 899.0,
-    discountedPrice: 99.0,
+    price: 2500.0,
+    discountedPrice: 2000.0,
     id: 2,
     imgs: {
       thumbnails: [
