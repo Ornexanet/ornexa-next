@@ -55,8 +55,8 @@ const shopData: Product[] = [
   {
     title: "MacBook Air M1 chip, 8/256GB",
     reviews: 6,
-    price: 59.0,
-    discountedPrice: 29.0,
+    price: 2500.0,
+    discountedPrice: 2000.0,
     id: 4,
     imgs: {
       thumbnails: [
