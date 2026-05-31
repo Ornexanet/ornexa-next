@@ -13,19 +13,19 @@ const PromoBanner = () => {
             </span>
 
             <h2 className="font-bold text-xl lg:text-heading-4 xl:text-heading-3 text-dark mb-5">
-              UP TO 30% OFF
+              UPP TILL 30% RABATT
             </h2>
 
             <p>
-              iPhone 14 has the same superspeedy chip that’s in iPhone 13 Pro,
-              A15 Bionic, with a 5‑core GPU, powers all the latest features.
+              iPhone 14 har samma supersnabba chip som iPhone 13 Pro, A15 Bionic, med en 5-kärnig GPU som driver alla de senaste funktionerna.
+
             </p>
 
             <a
-              href="#"
+              href="/shop-with-sidebar"
               className="inline-flex font-medium text-custom-sm text-white bg-blue py-[11px] px-9.5 rounded-md ease-out duration-200 hover:bg-blue-dark mt-7.5"
             >
-              Buy Now
+              Köp Nu
             </a>
           </div>
 
