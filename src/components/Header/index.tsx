@@ -145,10 +145,10 @@ const Header = () => {
 
               <div>
                 <span className="block text-2xs text-dark-4 uppercase">
-                  24/7 SUPPORT
+                  24/7 Kundsupport
                 </span>
                 <p className="font-medium text-custom-sm text-dark">
-                  (+965) 7492-3477
+                  (+46) 7492-348877
                 </p>
               </div>
             </div>
@@ -182,10 +182,10 @@ const Header = () => {
 
                   <div>
                     <span className="block text-2xs text-dark-4 uppercase">
-                      account
+                      Konto
                     </span>
                     <p className="font-medium text-custom-sm text-dark">
-                      Sign In
+                      Logga in
                     </p>
                   </div>
                 </Link>
@@ -233,10 +233,10 @@ const Header = () => {
 
                   <div>
                     <span className="block text-2xs text-dark-4 uppercase">
-                      cart
+                      Varkorg
                     </span>
                     <p className="font-medium text-custom-sm text-dark">
-                      ${totalPrice}
+                      {totalPrice} kr
                     </p>
                   </div>
                 </button>
@@ -356,7 +356,7 @@ const Header = () => {
                         fill=""
                       />
                     </svg>
-                    Recently Viewed
+                    Senaste visade
                   </a>
                 </li>
 
@@ -378,7 +378,7 @@ const Header = () => {
                         fill=""
                       />
                     </svg>
-                    Wishlist
+                    Önskelista
                   </Link>
                 </li>
               </ul>
