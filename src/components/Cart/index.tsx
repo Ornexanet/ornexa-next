@@ -100,13 +100,13 @@ const Cart = () => {
               </svg>
             </div>
 
-            <p className="pb-6">Your cart is empty!</p>
+            <p className="pb-6">Din varkorg är tom!</p>
 
             <Link
               href="/shop-with-sidebar"
               className="w-96 mx-auto flex justify-center font-medium text-white bg-dark py-[13px] px-6 rounded-md ease-out duration-200 hover:bg-opacity-95"
             >
-              Continue Shopping
+              Fortsätt handla
             </Link>
           </div>
         </>
