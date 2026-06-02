@@ -160,7 +160,7 @@ const ShopWithSidebar = () => {
                   <CategoryDropdown categories={categories} />
 
                   {/* <!-- gender box --> */}
-                  <GenderDropdown genders={genders} />
+                  {/* <GenderDropdown genders={[]} /> */}
 
                   {/* // <!-- size box --> */}
                   <SizeDropdown />
