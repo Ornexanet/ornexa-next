@@ -25,9 +25,9 @@ const ShopWithSidebar = () => {
   };
 
   const options = [
-    { label: "Latest Products", value: "0" },
-    { label: "Best Selling", value: "1" },
-    { label: "Old Products", value: "2" },
+    { label: "Senaste produkter", value: "0" },
+    { label: "Bästsäljare", value: "1" },
+    { label: "Aldre produkter", value: "2" },
   ];
 
   const categories = [
@@ -63,13 +63,13 @@ const ShopWithSidebar = () => {
     },
   ];
 
-  const genders = [
+  const Kön = [
     {
-      name: "Men",
+      name: "Män",
       products: 10,
     },
     {
-      name: "Women",
+      name: "Kvinnor",
       products: 23,
     },
     {
@@ -151,8 +151,8 @@ const ShopWithSidebar = () => {
                   {/* <!-- filter box --> */}
                   <div className="bg-white shadow-1 rounded-lg py-4 px-5">
                     <div className="flex items-center justify-between">
-                      <p>Filters:</p>
-                      <button className="text-blue">Clean All</button>
+                      <p>Filter:</p>
+                      <button className="text-blue">Rensa alla</button>
                     </div>
                   </div>
 
@@ -184,8 +184,8 @@ const ShopWithSidebar = () => {
                     <CustomSelect options={options} />
 
                     <p>
-                      Showing <span className="text-dark">9 of 50</span>{" "}
-                      Products
+                      Visar <span className="text-dark">9 of 50</span>{" "}
+                      Produkter
                     </p>
                   </div>
 
