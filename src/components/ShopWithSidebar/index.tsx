@@ -32,32 +32,32 @@ const ShopWithSidebar = () => {
 
   const categories = [
     {
-      name: "Desktop",
+      name: "Stationära datorer",
       products: 10,
       isRefined: true,
     },
     {
-      name: "Laptop",
+      name: "Bärbara datorer",
       products: 12,
       isRefined: false,
     },
     {
-      name: "Monitor",
+      name: "Bildskärm",
       products: 30,
       isRefined: false,
     },
     {
-      name: "UPS",
+      name: "Reservkraft",
       products: 23,
       isRefined: false,
     },
     {
-      name: "Phone",
+      name: "Mobiler",
       products: 10,
       isRefined: false,
     },
     {
-      name: "Watch",
+      name: "Klockor",
       products: 13,
       isRefined: false,
     },
@@ -100,8 +100,8 @@ const ShopWithSidebar = () => {
   return (
     <>
       <Breadcrumb
-        title={"Explore All Products"}
-        pages={["shop", "/", "shop with sidebar"]}
+        title={"Utforska alla produkter"}
+        pages={["Butik", "/", "Butik med sidebar"]}
       />
       <section className="overflow-hidden relative pb-20 pt-5 lg:pt-20 xl:pt-28 bg-[#f3f4f6]">
         <div className="max-w-[1170px] w-full mx-auto px-4 sm:px-8 xl:px-0">
