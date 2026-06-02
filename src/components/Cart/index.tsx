@@ -14,7 +14,7 @@ const Cart = () => {
     <>
       {/* <!-- ===== Breadcrumb Section Start ===== --> */}
       <section>
-        <Breadcrumb title={"Cart"} pages={["Cart"]} />
+        <Breadcrumb title={"varkorg"} pages={["varkorg"]} />
       </section>
       {/* <!-- ===== Breadcrumb Section End ===== --> */}
       {cartItems.length > 0 ? (
