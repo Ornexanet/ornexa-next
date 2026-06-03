@@ -3,8 +3,8 @@ import ShopWithSidebar from "@/components/ShopWithSidebar";
 
 import { Metadata } from "next";
 export const metadata: Metadata = {
-  title: "Shop Page | NextCommerce Nextjs E-commerce template",
-  description: "This is Shop Page for NextCommerce Template",
+  title: "Butik | Utforska produkter hos Ornexa",
+  description: "Utforska elektronik, tillbehör och smarta produkter hos Ornexa. Hitta aktuella erbjudanden och handla enkelt online.",
   // other metadata
 };
 
