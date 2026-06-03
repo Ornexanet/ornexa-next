@@ -2,8 +2,8 @@ import Home from "@/components/Home";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "NextCommerce | Nextjs E-commerce template",
-  description: "This is Home for NextCommerce Template",
+  title: "Ornexa | Elektronik, Tillbehör & Smart Shopping",
+  description: "Upptäck elektronik, tillbehör och smarta erbjudanden hos Ornexa. Handla kvalitetsprodukter med en modern och smidig shoppingupplevelse.",
   // other metadata
 };
 
