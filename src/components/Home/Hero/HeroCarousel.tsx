@@ -31,9 +31,7 @@ const HeroCarousal = () => {
                 30%
               </span>
               <span className="block text-dark text-sm sm:text-custom-1 sm:leading-[24px]">
-                Sale
-                <br />
-                Off
+                Rea
               </span>
             </div>
 
@@ -73,9 +71,7 @@ const HeroCarousal = () => {
                 30%
               </span>
               <span className="block text-dark text-sm sm:text-custom-1 sm:leading-[24px]">
-                Sale
-                <br />
-                Off
+                Rea
               </span>
             </div>
 
