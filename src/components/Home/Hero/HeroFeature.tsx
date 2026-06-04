@@ -4,23 +4,23 @@ import Image from "next/image";
 const featureData = [
   {
     img: "/images/icons/icon-01.svg",
-    title: "Free Shipping",
-    description: "For all orders $200",
+    title: "Fri frakt",
+    description: "För alla beställningar över 200 kr",
   },
   {
     img: "/images/icons/icon-02.svg",
-    title: "1 & 1 Returns",
-    description: "Cancellation after 1 day",
+    title: "30 dagar returrätt",
+    description: "Avbeställning 1 dag",
   },
   {
     img: "/images/icons/icon-03.svg",
-    title: "100% Secure Payments",
-    description: "Gurantee secure payments",
+    title: "100% Säkra betalningar",
+    description: "Trygga och säkra betalningar",
   },
   {
     img: "/images/icons/icon-04.svg",
-    title: "24/7 Dedicated Support",
-    description: "Anywhere & anytime",
+    title: "Support dygnet runt",
+    description: "När och var som helst",
   },
 ];
 
