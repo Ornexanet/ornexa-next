@@ -3,8 +3,8 @@ import React from "react";
 
 import { Metadata } from "next";
 export const metadata: Metadata = {
-  title: "Signup Page | NextCommerce Nextjs E-commerce template",
-  description: "This is Signup Page for NextCommerce Template",
+  title: "Skapa konto | Ornexa",
+  description: "Skapa ett Ornexa-konto för att spara produkter, hantera beställningar och få en smidigare shoppingupplevelse.",
   // other metadata
 };
 
