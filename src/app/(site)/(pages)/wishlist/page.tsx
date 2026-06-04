@@ -5,7 +5,9 @@ import { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Önskelista | Spara dina favoritprodukter hos Ornexa",
   description: "Spara dina favoritprodukter i Ornexas önskelista och kom tillbaka senare för att jämföra, granska och handla smartare.",
- canonical: "/wishlist",
+ alternates: {
+  canonical: "/wishlist",
+ },
   // other metadata
 };
 
