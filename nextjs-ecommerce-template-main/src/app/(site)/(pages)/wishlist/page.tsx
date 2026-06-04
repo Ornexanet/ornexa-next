@@ -3,10 +3,14 @@ import { Wishlist } from "@/components/Wishlist";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Wishlist Page | NextCommerce Nextjs E-commerce template",
-  description: "This is Wishlist Page for NextCommerce Template",
-  // other metadata
+  title: "Önskelista | Ornexa",
+  description: "Spara dina favoritprodukter i önskelistan hos Ornexa och hitta dem enkelt senare",
+   alternates: {
+    canonical: "https://lab.ornexa.net/wishlist",
+  },
 };
+
+  // other metadata
 
 const WishlistPage = () => {
   return (
