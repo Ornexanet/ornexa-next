@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   openGraph: {
   title: "Ornexa | Elektronik, Tillbehör & Smart Shopping",
   description: "Upptäck elektronik, tillbehör & Smart shopping",
-  images: ["/images/ornexa-open-graph.png"],
+  images: ["/images/Ornexa-open-graph.png"],
   },
   alternates: {
   canonical: "https://lab.ornexa.net/",
