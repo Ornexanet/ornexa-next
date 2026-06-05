@@ -10,6 +10,9 @@ export const metadata: Metadata = {
     description: "Se produkterna i din varukorg, kontrollera priser och fortsätt till kassan hos Ornexa.",
     images: ["/images/Ornexa-open-graph.png"],
   },
+  alternates:{
+  canonical: "https://lab.ornexa.net/car",
+  },
   // other metadata
 };
 
