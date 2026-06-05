@@ -5,6 +5,9 @@ import { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Kassa | Slutför ditt köp hos Ornexa",
   description: "Slutför din beställning hos Ornexa på ett enkelt och smidigt sätt. Granska dina produkter, fyll i dina uppgifter och gå vidare till betalning.",
+  alternates: {
+    canonical: "https://lab.ornexa.net/checkout",
+  },
   // other metadata
 };
 
