@@ -5,6 +5,11 @@ import { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Varukorg | Ornexa",
   description: "Se produkterna i din varukorg, kontrollera priser och fortsätt till kassan hos Ornexa.",
+  openGraph: {
+    title: "Varukorg | Ornexa",
+    description: "Se produkterna i din varukorg, kontrollera priser och fortsätt till kassan hos Ornexa.",
+    images: ["/images/Ornexa-open-graph.png"],
+  },
   // other metadata
 };
 
