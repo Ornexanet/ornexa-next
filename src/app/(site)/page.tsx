@@ -1,4 +1,13 @@
+const organizationSchema = {
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  name: "Ornexa",
+  url: "https://lab.ornexa.net",
+  logo: "https://lab.ornexa.net/images/Ornexa-open-graph.png",
+};
+
 import Home from "@/components/Home";
+import JsonLd from "@/components/JsonLd";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -19,6 +28,7 @@ export const metadata: Metadata = {
 export default function HomePage() {
   return (
     <>
+    <JsonLd data={organizationSchema} />
       <Home />
     </>
   );
