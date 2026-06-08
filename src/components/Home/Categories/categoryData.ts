@@ -1,7 +1,7 @@
 const data = [
   {
     title: "Mobiler",
-    href: "/shop-with-sidebar?category=televisions",
+    href: "/shop-with-sidebar?mobiler",
     id: 1,
     img: "/images/categories/categories-01.png",
   },
