@@ -1,13 +1,28 @@
 export default function MobilerPage() {
   return (
-    <div className="container mx-auto py-10">
-      <h1 className="text-4xl font-bold">
+    <main className="container mx-auto py-10">
+      <h1 className="text-4xl font-bold mb-4">
         Mobiler
       </h1>
 
-      <p className="mt-4">
-        Här hittar du alla mobiltelefoner.
+      <p className="mb-8">
+        Utforska vårt sortiment av smartphones från Apple,
+        Samsung, Google och Xiaomi.
       </p>
-    </div>
+
+      <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+        <div className="border p-4 rounded">
+          iPhone 16 Pro
+        </div>
+
+        <div className="border p-4 rounded">
+          Samsung Galaxy S25
+        </div>
+
+        <div className="border p-4 rounded">
+          Google Pixel 10
+        </div>
+      </div>
+    </main>
   );
 }
