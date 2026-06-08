@@ -1,6 +1,6 @@
 const data = [
   {
-    title: "TV & Bildskärmar",
+    title: "Mobiler",
     href: "/shop-with-sidebar?category=televisions",
     id: 1,
     img: "/images/categories/categories-01.png",
