@@ -24,6 +24,7 @@ const shopData: Product[] = [
     price: 899.0,
     discountedPrice: 99.0,
     id: 2,
+    category: "mobiler",
     imgs: {
       thumbnails: [
         "/images/products/product-2-sm-1.png",
